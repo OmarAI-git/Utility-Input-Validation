@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C\u002B\u002B project\\Utility Library-Input \u0026 Validation Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7375FD7-19BB-4617-B167-C956E4E71A33}|Utility Library-Input \u0026 Validation Library.vcxproj|C:\\C\u002B\u002B project\\Utility Library-Input \u0026 Validation Library\\Utility Library-Input \u0026 Validation Library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7375FD7-19BB-4617-B167-C956E4E71A33}|Utility Library-Input \u0026 Validation Library.vcxproj|solutionrelative:Utility Library-Input \u0026 Validation Library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7375FD7-19BB-4617-B167-C956E4E71A33}|Utility Library-Input \u0026 Validation Library.vcxproj|C:\\C\u002B\u002B project\\Utility Library-Input \u0026 Validation Library\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7375FD7-19BB-4617-B167-C956E4E71A33}|Utility Library-Input \u0026 Validation Library.vcxproj|solutionrelative:clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7375FD7-19BB-4617-B167-C956E4E71A33}|Utility Library-Input \u0026 Validation Library.vcxproj|C:\\C\u002B\u002B project\\Utility Library-Input \u0026 Validation Library\\clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7375FD7-19BB-4617-B167-C956E4E71A33}|Utility Library-Input \u0026 Validation Library.vcxproj|solutionrelative:clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7375FD7-19BB-4617-B167-C956E4E71A33}|Utility Library-Input \u0026 Validation Library.vcxproj|C:\\C\u002B\u002B project\\Utility Library-Input \u0026 Validation Library\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7375FD7-19BB-4617-B167-C956E4E71A33}|Utility Library-Input \u0026 Validation Library.vcxproj|solutionrelative:clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7375FD7-19BB-4617-B167-C956E4E71A33}|Utility Library-Input \u0026 Validation Library.vcxproj|C:\\C\u002B\u002B project\\Utility Library-Input \u0026 Validation Library\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7375FD7-19BB-4617-B167-C956E4E71A33}|Utility Library-Input \u0026 Validation Library.vcxproj|solutionrelative:clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utility Library-Input \u0026 Validation Library.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B project\\Utility Library-Input \u0026 Validation Library\\Utility Library-Input \u0026 Validation Library.cpp",
+              "RelativeDocumentMoniker": "Utility Library-Input \u0026 Validation Library.cpp",
+              "ToolTip": "C:\\C\u002B\u002B project\\Utility Library-Input \u0026 Validation Library\\Utility Library-Input \u0026 Validation Library.cpp",
+              "RelativeToolTip": "Utility Library-Input \u0026 Validation Library.cpp",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAuwKwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T05:07:21.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsString.h",
+              "DocumentMoniker": "C:\\C\u002B\u002B project\\Utility Library-Input \u0026 Validation Library\\clsString.h",
+              "RelativeDocumentMoniker": "clsString.h",
+              "ToolTip": "C:\\C\u002B\u002B project\\Utility Library-Input \u0026 Validation Library\\clsString.h",
+              "RelativeToolTip": "clsString.h",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwCQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-14T05:16:41.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsInputValidate.h",
+              "DocumentMoniker": "C:\\C\u002B\u002B project\\Utility Library-Input \u0026 Validation Library\\clsInputValidate.h",
+              "RelativeDocumentMoniker": "clsInputValidate.h",
+              "ToolTip": "C:\\C\u002B\u002B project\\Utility Library-Input \u0026 Validation Library\\clsInputValidate.h",
+              "RelativeToolTip": "clsInputValidate.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-14T05:11:35.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsUtil.h",
+              "DocumentMoniker": "C:\\C\u002B\u002B project\\Utility Library-Input \u0026 Validation Library\\clsUtil.h",
+              "RelativeDocumentMoniker": "clsUtil.h",
+              "ToolTip": "C:\\C\u002B\u002B project\\Utility Library-Input \u0026 Validation Library\\clsUtil.h",
+              "RelativeToolTip": "clsUtil.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-14T05:08:49.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsDate.h",
+              "DocumentMoniker": "C:\\C\u002B\u002B project\\Utility Library-Input \u0026 Validation Library\\clsDate.h",
+              "RelativeDocumentMoniker": "clsDate.h",
+              "ToolTip": "C:\\C\u002B\u002B project\\Utility Library-Input \u0026 Validation Library\\clsDate.h",
+              "RelativeToolTip": "clsDate.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-14T05:09:48.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

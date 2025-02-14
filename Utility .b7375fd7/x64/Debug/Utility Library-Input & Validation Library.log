@@ -1,0 +1,20 @@
+﻿  Utility Library-Input & Validation Library.cpp
+C:\C++ project\Utility Library-Input & Validation Library\clsString.h(39,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Utility%20Library-Input%20&%20Validation%20Library.cpp')
+  
+C:\C++ project\Utility Library-Input & Validation Library\clsString.h(44,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Utility%20Library-Input%20&%20Validation%20Library.cpp')
+  
+C:\C++ project\Utility Library-Input & Validation Library\clsString.h(56,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Utility%20Library-Input%20&%20Validation%20Library.cpp')
+  
+C:\C++ project\Utility Library-Input & Validation Library\clsString.h(193,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Utility%20Library-Input%20&%20Validation%20Library.cpp')
+  
+C:\C++ project\Utility Library-Input & Validation Library\clsString.h(324,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Utility%20Library-Input%20&%20Validation%20Library.cpp')
+  
+C:\C++ project\Utility Library-Input & Validation Library\clsString.h(368,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Utility%20Library-Input%20&%20Validation%20Library.cpp')
+  
+  Utility Library-Input & Validation Library.vcxproj -> C:\C++ project\Utility Library-Input & Validation Library\x64\Debug\Utility Library-Input & Validation Library.exe
